@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FrioOndas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_led_control">frioControl</string>
+    <string name="Modo">Modo: </string>
+
+    <string-array name="opciones_array">
+        <item>Tiempo</item>
+        <item>Temperatura</item>
+    </string-array>
+</resources>
